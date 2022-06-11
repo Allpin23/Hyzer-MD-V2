@@ -1,4 +1,4 @@
-global.owner = ['6283182270674'] // Put your number here
+global.owner = ['6289648311511'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -41,7 +41,7 @@ global.APIKeys = { // APIKey Here
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = 'Jangan lupa donasi saldo dana : 089648311511'
 global.packname = 'stickerby'
 global.author = `𝙿𝚊𝚝𝚛𝚒𝚌𝚔 𝙱𝚘𝚝`
 global.wm = '𝙿𝚊𝚝𝚛𝚒𝚌𝚔 𝙱𝚘𝚝'
